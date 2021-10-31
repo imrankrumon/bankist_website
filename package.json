@@ -1,0 +1,19 @@
+{
+  "name": "bankist_website",
+  "version": "1.0.0",
+  "description": "Bankist | When Banking meets Minimalist",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imrankrumon/bankist_website.git"
+  },
+  "author": "Imran Rumon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imrankrumon/bankist_website/issues"
+  },
+  "homepage": "https://imrankrumon.github.io/bankist_website"
+}
